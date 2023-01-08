@@ -1,0 +1,12 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+/* FONTS
+
+Paragraphs: font-family: 'Barlow', sans-serif;
+Headings: font-family: 'Fraunces', serif;
+
+*/
